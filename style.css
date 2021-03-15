@@ -17,13 +17,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(1.jpg);
+    background-color: #0c142b;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-/* #canvas{
-    background: rgba(255,255,255,0.2);
-    backdrop-filter: blur(10px);
-} */
